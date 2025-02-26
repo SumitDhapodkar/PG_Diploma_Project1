@@ -1,0 +1,14 @@
+17:05:43 **** Incremental Build of configuration Debug for project V_can_TX ****
+make -j12 all 
+arm-none-eabi-size  V_can_TX.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13160	     12	   1724	  14896	   3a30	V_can_TX.elf
+Finished building: default.size.stdout
+ 
+17:06:13 **** Incremental Build of configuration Debug for project V_can_TX ****
+make -j12 all 
+arm-none-eabi-size  V_can_TX.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13160	     12	   1724	  14896	   3a30	V_can_TX.elf
+Finished building: default.size.stdout
+ 

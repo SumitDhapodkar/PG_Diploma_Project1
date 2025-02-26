@@ -1,0 +1,10 @@
+17:04:54 **** Incremental Build of configuration Release for project can_demo ****
+make -j12 all 
+arm-none-eabi-size  can_demo.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7000	     12	   1732	   8744	   2228	can_demo.elf
+Finished building: default.size.stdout
+ 
+
+17:04:54 Build Finished. 0 errors, 0 warnings. (took 233ms)
+
